@@ -1,5 +1,10 @@
 # Andrewski's Arcade
 ## MakeCode Arcade Games
+### [Soggy Socks](https://andrew-ski.github.io/SoggySocks/)
+[<img src="SoggySocks.png">](https://andrew-ski.github.io/SoggySocks/)
+You wore Socks in your sandles to the beach... The tide is coming in and you better run before you end up with... SOGGY SOCKS!
+MultiPlayer Mode gives the second player a boogie board that can bounce bonus items to the bottom of the screen.
+
 
 ### [Knee of the Bee](https://andrew-ski.github.io/knee-of-the-bee/)
 [<img src="Kob1P.png">](https://andrew-ski.github.io/knee-of-the-bee/)
