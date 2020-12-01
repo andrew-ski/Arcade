@@ -2,7 +2,7 @@
 ## MakeCode Arcade Games
 ### [Soggy Socks](https://andrew-ski.github.io/SoggySocks/)
 [<img src="SoggySocks.png">](https://andrew-ski.github.io/SoggySocks/)
-You wore Socks in your sandles to the beach... The tide is coming in and you better run before you end up with... SOGGY SOCKS!
+You wore Socks in your sandals to the beach... The tide is coming in and you better run before you end up with... SOGGY SOCKS!
 MultiPlayer Mode gives the second player a boogie board that can bounce bonus items to the bottom of the screen.
 
 
