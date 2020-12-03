@@ -1,5 +1,12 @@
 # Andrewski's Arcade
 ## MakeCode Arcade Games
+### [The Jolly Dodger](https://andrew-ski.github.io/The_jolly_dodger/)
+[<img src="thejollydodger.png">](https://andrew-ski.github.ioThe_jolly_dodger/)
+You've recruited a crew of swarthy vermin! Outfit your ship and sail into enemy territory to plunder some booty and steal all the glory!
+Dodge enemy fire or you will become someone else's sunken treasure. 
+
+
+https://andrew-ski.github.io/The_jolly_dodger/
 ### [Soggy Socks](https://andrew-ski.github.io/SoggySocks/)
 [<img src="SoggySocks.png">](https://andrew-ski.github.io/SoggySocks/)
 You wore Socks in your sandals to the beach... The tide is coming in and you better run before you end up with... SOGGY SOCKS!
