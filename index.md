@@ -1,5 +1,7 @@
 # Andrewski's Arcade
 ## MakeCode Arcade Games
+
+<img src="SimControls.png">
 ### [The Jolly Dodger](https://andrew-ski.github.io/The_jolly_dodger/)
 [<img src="thejollydodger.png">](https://andrew-ski.github.io/The_jolly_dodger/)
 You've recruited a crew of swarthy vermin! Outfit your ship and sail into enemy territory to plunder some booty and steal all the glory!
