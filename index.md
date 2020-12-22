@@ -3,6 +3,12 @@
 
 <img src="SimControls.png">
 
+
+### [Kiddo](https://andrew-ski.github.io/Kiddo/)
+[<img src="Kiddo.png">](https://andrew-ski.github.io/Kiddo/)
+Grab your backpack and walking stick. Hack bushes, beat-up forest animals and collect garbage. Get all the trash and beat-up all the beasts to get the prize.
+
+
 ### [The Jolly Dodger](https://andrew-ski.github.io/The_jolly_dodger/)
 [<img src="thejollydodger.png">](https://andrew-ski.github.io/The_jolly_dodger/)
 You've recruited a crew of swarthy vermin! Outfit your ship and sail into enemy territory to plunder some booty and steal all the glory!
